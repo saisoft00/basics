@@ -1,2 +1,1 @@
-# basics
-solved problem
+again resolved
